@@ -1,0 +1,12 @@
+<?php
+class Contoh 1 extend CI_Controller
+{
+    public function index()
+    {
+        echo"<h1>Perkenalan<h/1>;
+        echo"Nama saya Dini Dian Anggraeni
+            Saya tinggal di daerah Karawang
+            Olahraga yang disukai adalah 
+            Bulutangkis";
+    }
+}
